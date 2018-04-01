@@ -1,0 +1,34 @@
+{
+  "name": "komplete",
+  "version": "0.0.1",
+  "description": "Javascript autocomplete text input form element",
+  "main": "komplete.js",
+  "scripts": {
+    "test": "komplete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmitchell413/komplete.js.git"
+  },
+  "keywords": [
+    "komplete",
+    "autocomplete"
+  ],
+  "author": "Matt Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmitchell413/komplete.js/issues"
+  },
+  "homepage": "https://github.com/mmitchell413/komplete.js#readme",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.9.0"
+  }
+}
